@@ -1,0 +1,125 @@
+Traceback (most recent call last):
+[1m2026-06-30T17:24:57.270754500Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+  File "D:\qbeast_svr_project\nautilus_strategy.py", line 539, in <module>
+    eng = run_mode3(syms, args.data_dir, args.results_dir, args.capital)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\nautilus_strategy.py", line 503, in run_mode3
+[1m2026-06-30T17:24:57.270766000Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  NAUTILUS TRADER - Automated Algorithmic Trading Platform[0m
+[1m2026-06-30T17:24:57.270766400Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  by Nautech Systems Pty Ltd.[0m
+[1m2026-06-30T17:24:57.270766700Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  Copyright (C) 2015-2026. All rights reserved.[0m
+[1m2026-06-30T17:24:57.270766900Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270767100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: [0m
+[1m2026-06-30T17:24:57.270767400Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓúáΓú┤Γú╢ΓíƒΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270767600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓú░Γú╛Γú┐Γú┐Γú┐ΓáÇΓó╕Γú┐Γú┐Γú┐Γú┐Γú╢Γú╢ΓúñΓúÇΓáÇΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270767900Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓóÇΓú┤ΓíçΓóÇΓú╛Γú┐Γú┐Γú┐Γú┐Γú┐ΓáÇΓú╛Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐Γá┐ΓáôΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270768200Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓú░Γú┐Γú┐ΓíÇΓó╕Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓáÇΓú┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓáƒΓáüΓúáΓúäΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270768400Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓóáΓú┐Γú┐Γú┐ΓúçΓáÇΓó┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓáÇΓó╗Γú┐Γú┐Γú┐Γí┐ΓóâΓúáΓú╛Γú┐Γú┐ΓúºΓíÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270768600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓááΓú╛Γú┐Γú┐Γú┐Γú┐Γú┐ΓúºΓáêΓáïΓóÇΓú┤ΓúºΓáÇΓú┐ΓíÅΓóáΓíÇΓó╕Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓíçΓáÇ[0m
+[1m2026-06-30T17:24:57.270768800Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓúÇΓáÖΓó┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓáçΓóáΓú┐Γú┐Γú┐ΓíäΓá╣ΓáâΓá╝ΓáâΓáêΓáëΓá¢Γá¢Γá¢Γá¢Γá¢Γá╗ΓáçΓáÇ[0m
+[1m2026-06-30T17:24:57.270770500Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓó╕ΓíƒΓóáΓúñΓáëΓá¢Γá┐Γó┐Γú┐ΓáÇΓó╕Γú┐Γí┐ΓáïΓúáΓúñΓúäΓáÇΓú╛Γú┐Γú┐Γú╢Γú╢Γú╢ΓúªΓíäΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270770700Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓá╕ΓáÇΓú╛ΓáÅΓú╕Γú╖ΓáéΓúáΓúñΓáÇΓáÿΓóüΓú┤Γú╛Γú┐Γú┐Γú┐ΓíåΓáÿΓú┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270770900Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓá¢ΓáÇΓú┐ΓíƒΓáÇΓó╗Γú┐ΓíäΓá╕Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐Γú┐ΓíÇΓáÿΓú┐Γú┐Γú┐Γú┐ΓáƒΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270771100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓú┐ΓáçΓáÇΓáÇΓó╗Γí┐ΓáÇΓáêΓá╗Γú┐Γú┐Γú┐Γú┐Γú┐ΓíçΓáÇΓó╣Γú┐Γá┐ΓáïΓáÇΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270771300Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: ΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáïΓáÇΓáÇΓáÇΓíÿΓáüΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáêΓáüΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇΓáÇ[0m
+[1m2026-06-30T17:24:57.270771500Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: [0m
+[1m2026-06-30T17:24:57.270771600Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270771900Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  SYSTEM SPECIFICATION[0m
+[1m2026-06-30T17:24:57.270772000Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270772600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: CPU architecture: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz[0m
+[1m2026-06-30T17:24:57.270773100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: CPU(s): 12 @ 2688 MHz[0m
+[1m2026-06-30T17:24:57.270774800Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: OS: kernel-26200 Windows 11 Home Single Language[0m
+[1m2026-06-30T17:24:57.270842500Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270843000Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  MEMORY USAGE[0m
+[1m2026-06-30T17:24:57.270843400Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270846400Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: RAM-Total: 7.65 GiB[0m
+[1m2026-06-30T17:24:57.270847000Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: RAM-Used: 6.91 GiB (90.37%)[0m
+[1m2026-06-30T17:24:57.270847600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: RAM-Avail: 0.74 GiB (9.63%)[0m
+[1m2026-06-30T17:24:57.270852900Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Swap-Total: 23.00 GiB[0m
+[1m2026-06-30T17:24:57.270853400Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Swap-Used: 9.89 GiB (43.00%)[0m
+[1m2026-06-30T17:24:57.270853900Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Swap-Avail: 13.11 GiB (57.00%)[0m
+[1m2026-06-30T17:24:57.270856900Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270857200Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  IDENTIFIERS[0m
+[1m2026-06-30T17:24:57.270857400Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270858200Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: trader_id: QBEAST-SVR-001[0m
+[1m2026-06-30T17:24:57.270858600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: machine_id: kunwar[0m
+[1m2026-06-30T17:24:57.270859500Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: instance_id: 04334ea0-e83e-44ab-889a-09ce663e3699[0m
+[1m2026-06-30T17:24:57.270859900Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: PID: 92540[0m
+[1m2026-06-30T17:24:57.270860100Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270860300Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine:  VERSIONING[0m
+[1m2026-06-30T17:24:57.270860500Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.270886700Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: nautilus_trader: 1.224.0[0m
+[1m2026-06-30T17:24:57.270893800Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: python: 3.12.10[0m
+[1m2026-06-30T17:24:57.270898300Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: numpy: 2.5.0[0m
+[1m2026-06-30T17:24:57.270901000Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: pandas: 2.3.3[0m
+[1m2026-06-30T17:24:57.270904000Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: msgspec: 0.21.1[0m
+[1m2026-06-30T17:24:57.270907100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: pyarrow: 24.0.0[0m
+[1m2026-06-30T17:24:57.270910000Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: pytz: 2026.2[0m
+[1m2026-06-30T17:24:57.271238600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: uvloop: Unavailable (failed to import package)[0m
+[1m2026-06-30T17:24:57.271239300Z[0m [36m[INFO] QBEAST-SVR-001.BacktestEngine: =================================================================[0m
+[1m2026-06-30T17:24:57.271267100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Building system kernel[0m
+[1m2026-06-30T17:24:57.271299100Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.database=None[0m
+[1m2026-06-30T17:24:57.271299900Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.encoding='msgpack'[0m
+[1m2026-06-30T17:24:57.271301000Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.timestamps_as_iso8601=False[0m
+[1m2026-06-30T17:24:57.271301700Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.buffer_interval_ms=None[0m
+[1m2026-06-30T17:24:57.271303000Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.autotrim_mins=None[0m
+[1m2026-06-30T17:24:57.271303700Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.use_trader_prefix=True[0m
+[1m2026-06-30T17:24:57.271304300Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.use_trader_id=True[0m
+[1m2026-06-30T17:24:57.271305000Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.use_instance_id=False[0m
+[1m2026-06-30T17:24:57.271306100Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.streams_prefix='stream'[0m
+[1m2026-06-30T17:24:57.271306700Z[0m [94m[INFO] QBEAST-SVR-001.MessageBus: config.types_filter=None[0m
+[1m2026-06-30T17:24:57.271356700Z[0m [INFO] QBEAST-SVR-001.Cache: READY[0m
+[1m2026-06-30T17:24:57.272009900Z[0m [INFO] QBEAST-SVR-001.DataEngine: READY[0m
+[1m2026-06-30T17:24:57.272109400Z[0m [INFO] QBEAST-SVR-001.RiskEngine: READY[0m
+[1m2026-06-30T17:24:57.272133200Z[0m [94m[INFO] QBEAST-SVR-001.RiskEngine: TradingState is ACTIVE[0m
+[1m2026-06-30T17:24:57.272201200Z[0m [INFO] QBEAST-SVR-001.Throttler-ORDER_SUBMIT_THROTTLER: READY[0m
+[1m2026-06-30T17:24:57.272221300Z[0m [94m[INFO] QBEAST-SVR-001.RiskEngine: Set MAX_ORDER_SUBMIT_RATE: 100/00:00:01[0m
+[1m2026-06-30T17:24:57.272238200Z[0m [INFO] QBEAST-SVR-001.Throttler-ORDER_MODIFY_THROTTLER: READY[0m
+[1m2026-06-30T17:24:57.272244400Z[0m [94m[INFO] QBEAST-SVR-001.RiskEngine: Set MAX_ORDER_MODIFY_RATE: 100/00:00:01[0m
+[1m2026-06-30T17:24:57.272285100Z[0m [INFO] QBEAST-SVR-001.ExecEngine: READY[0m
+[1m2026-06-30T17:24:57.272308800Z[0m [94m[INFO] QBEAST-SVR-001.ExecEngine: config.snapshot_orders=False[0m
+[1m2026-06-30T17:24:57.272309600Z[0m [94m[INFO] QBEAST-SVR-001.ExecEngine: config.snapshot_positions=False[0m
+[1m2026-06-30T17:24:57.272310400Z[0m [94m[INFO] QBEAST-SVR-001.ExecEngine: config.snapshot_positions_interval_secs=None[0m
+[1m2026-06-30T17:24:57.272311100Z[0m [94m[INFO] QBEAST-SVR-001.ExecEngine: config.allow_overfills=False[0m
+[1m2026-06-30T17:24:57.272341200Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 general objects from database[0m
+[1m2026-06-30T17:24:57.272343800Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 currencies from database[0m
+[1m2026-06-30T17:24:57.272346600Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 instruments from database[0m
+[1m2026-06-30T17:24:57.272352200Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 accounts from database[0m
+[1m2026-06-30T17:24:57.272354100Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 orders from database[0m
+[1m2026-06-30T17:24:57.272357200Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 order lists from database[0m
+[1m2026-06-30T17:24:57.272359900Z[0m [INFO] QBEAST-SVR-001.Cache: Cached 0 positions from database[0m
+[1m2026-06-30T17:24:57.272370000Z[0m [INFO] QBEAST-SVR-001.Cache: Checking data integrity[0m
+[1m2026-06-30T17:24:57.272384700Z[0m [92m[INFO] QBEAST-SVR-001.Cache: Integrity check passed in 0╬╝s[0m
+[1m2026-06-30T17:24:57.272397700Z[0m [INFO] QBEAST-SVR-001.ExecEngine: Loaded cache in 0ms[0m
+[1m2026-06-30T17:24:57.272432200Z[0m [INFO] QBEAST-SVR-001.OrderEmulator: READY[0m
+[1m2026-06-30T17:24:57.272476400Z[0m [INFO] QBEAST-SVR-001.QBEAST-SVR-001: READY[0m
+[1m2026-06-30T17:24:57.272497100Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Initialized in 353ms[0m
+[1m2026-06-30T17:24:57.272583600Z[0m [INFO] QBEAST-SVR-001.SimulatedExchange(NSE): OmsType=NETTING[0m
+[1m2026-06-30T17:24:57.272621000Z[0m [INFO] QBEAST-SVR-001.ExecClient-NSE: READY[0m
+[1m2026-06-30T17:24:57.272647400Z[0m [INFO] QBEAST-SVR-001.SimulatedExchange(NSE): Registered ExecutionClient-NSE[0m
+[1m2026-06-30T17:24:57.272653500Z[0m [INFO] QBEAST-SVR-001.ExecEngine: Registered ExecutionClient-NSE[0m
+[1m2026-06-30T17:24:57.272680100Z[0m [INFO] QBEAST-SVR-001.DataClient-NSE: READY[0m
+[1m2026-06-30T17:24:57.272700500Z[0m [INFO] QBEAST-SVR-001.DataEngine: Registered NSE[0m
+[1m2026-06-30T17:24:57.272703000Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Added SimulatedExchange(id=NSE, oms_type=NETTING, account_type=CASH)[0m
+[1m2026-06-30T17:24:57.272862100Z[0m [INFO] QBEAST-SVR-001.SimulatedExchange(NSE): Added instrument ....NSE and created matching engine[0m
+[1m2026-06-30T17:24:57.272864600Z[0m [INFO] QBEAST-SVR-001.BacktestEngine: Added ....NSE Instrument[0m
+    bars = load_bars_for_instrument(os.path.join(data_dir, f"{sym}.csv"), instrument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\nautilus_strategy.py", line 161, in load_bars_for_instrument
+    df = pd.read_csv(csv_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\qbeast_svr_project\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "D:\qbeast_svr_project\.venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/project\\....csv'
